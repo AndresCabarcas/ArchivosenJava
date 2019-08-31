@@ -1,0 +1,4 @@
+Prejardin:1231:andres:Hombre:6
+Jardin:54654:luisa:Mujer:5
+Prejardin:435453:juan:Hombre:6
+Prejardin:1234:sdfgd:Mujer:12
